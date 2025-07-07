@@ -1,1 +1,1 @@
-index.hmt.
+index.html
